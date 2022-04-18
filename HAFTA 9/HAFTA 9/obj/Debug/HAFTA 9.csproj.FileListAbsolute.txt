@@ -1,0 +1,10 @@
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\bin\Debug\HAFTA 9.exe.config
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\bin\Debug\HAFTA 9.exe
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\bin\Debug\HAFTA 9.pdb
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA 9.csprojAssemblyReference.cache
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA_9.Form1.resources
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA_9.Properties.Resources.resources
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA 9.csproj.GenerateResource.cache
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA 9.csproj.CoreCompileInputs.cache
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA 9.exe
+C:\Users\clama\source\repos\HAFTA 9\HAFTA 9\obj\Debug\HAFTA 9.pdb

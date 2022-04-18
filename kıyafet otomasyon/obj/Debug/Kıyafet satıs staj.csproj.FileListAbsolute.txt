@@ -1,0 +1,19 @@
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\bin\Debug\Kıyafet satıs staj.exe.config
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\bin\Debug\Kıyafet satıs staj.exe
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\bin\Debug\Kıyafet satıs staj.pdb
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet satıs staj.csprojAssemblyReference.cache
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.müsteriekle.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.Properties.Resources.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet satıs staj.csproj.GenerateResource.cache
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet satıs staj.csproj.CoreCompileInputs.cache
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet satıs staj.exe
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet satıs staj.pdb
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.müsteriListele.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.personelEkle.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.PersonelListele.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.Kategori.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.marka.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.ürünEkle.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.ÜrünListeleme.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.Satis.resources
+C:\Users\mami\source\repos\Kıyafet satıs staj\Kıyafet satıs staj\obj\Debug\Kıyafet_satıs_staj.SatisListele.resources

@@ -1,0 +1,9 @@
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\bin\Debug\Hafta 11.exe
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\bin\Debug\Hafta 11.pdb
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta_11.Properties.Resources.resources
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta 11.csproj.GenerateResource.cache
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta 11.csproj.CoreCompileInputs.cache
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta 11.exe
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta 11.pdb
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta_11.Form2.resources
+C:\Users\clama\source\repos\Hafta 11\Hafta 11\obj\Debug\Hafta_11.dizi3.resources

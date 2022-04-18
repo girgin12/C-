@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="muratvidanjorModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Araclar">
+    <Key>
+      <PropertyRef Name="AracID" />
+    </Key>
+    <Property Name="AracID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Aracmodel" Type="nvarchar" MaxLength="50" />
+    <Property Name="Aracadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Aractipi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Aracıkullanan" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoforID" Type="int" />
+    <Property Name="Aracsayisi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Firmalar">
+    <Key>
+      <PropertyRef Name="FirmaID" />
+    </Key>
+    <Property Name="FirmaID" Type="int" Nullable="false" />
+    <Property Name="AracID" Type="int" />
+    <Property Name="SoforID" Type="int" />
+    <Property Name="Firmaadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Firmatel" Type="nvarchar" MaxLength="50" />
+    <Property Name="Firmamail" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Soforler">
+    <Key>
+      <PropertyRef Name="SoforID" />
+    </Key>
+    <Property Name="SoforID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Soforadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoforSoyadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sofortel" Type="nvarchar" MaxLength="20" />
+    <Property Name="Soformail" Type="nvarchar" MaxLength="100" />
+    <Property Name="Sofortc" Type="nvarchar" MaxLength="20" />
+    <Property Name="Soforehliyet" Type="nvarchar" MaxLength="10" />
+    <Property Name="Soforarac" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracID" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Araclar_Soforler">
+    <End Role="Soforler" Type="Self.Soforler" Multiplicity="0..1" />
+    <End Role="Araclar" Type="Self.Araclar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Soforler">
+        <PropertyRef Name="SoforID" />
+      </Principal>
+      <Dependent Role="Araclar">
+        <PropertyRef Name="SoforID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firmalar_Araclar">
+    <End Role="Araclar" Type="Self.Araclar" Multiplicity="0..1" />
+    <End Role="Firmalar" Type="Self.Firmalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Araclar">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="Firmalar">
+        <PropertyRef Name="AracID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firmalar_Soforler">
+    <End Role="Soforler" Type="Self.Soforler" Multiplicity="0..1" />
+    <End Role="Firmalar" Type="Self.Firmalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Soforler">
+        <PropertyRef Name="SoforID" />
+      </Principal>
+      <Dependent Role="Firmalar">
+        <PropertyRef Name="SoforID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Soforler_Araclar">
+    <End Role="Araclar" Type="Self.Araclar" Multiplicity="0..1" />
+    <End Role="Soforler" Type="Self.Soforler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Araclar">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="Soforler">
+        <PropertyRef Name="AracID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="muratvidanjorModelStoreContainer">
+    <EntitySet Name="Araclar" EntityType="Self.Araclar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Firmalar" EntityType="Self.Firmalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Soforler" EntityType="Self.Soforler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Araclar_Soforler" Association="Self.FK_Araclar_Soforler">
+      <End Role="Soforler" EntitySet="Soforler" />
+      <End Role="Araclar" EntitySet="Araclar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firmalar_Araclar" Association="Self.FK_Firmalar_Araclar">
+      <End Role="Araclar" EntitySet="Araclar" />
+      <End Role="Firmalar" EntitySet="Firmalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firmalar_Soforler" Association="Self.FK_Firmalar_Soforler">
+      <End Role="Soforler" EntitySet="Soforler" />
+      <End Role="Firmalar" EntitySet="Firmalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Soforler_Araclar" Association="Self.FK_Soforler_Araclar">
+      <End Role="Araclar" EntitySet="Araclar" />
+      <End Role="Soforler" EntitySet="Soforler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
