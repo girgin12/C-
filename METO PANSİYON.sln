@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "METO PANSİYON", "METO PANSİYON\METO PANSİYON.csproj", "{8E24EE0F-AD8C-4571-9A36-F4B539050D1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "meto Pansiyon", "C:\Users\clama\OneDrive\Masaüstü\meto\meto Pansiyon\meto Pansiyon.vdproj", "{FF0DFBA1-5ADE-4371-91C1-6B7A10730497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E24EE0F-AD8C-4571-9A36-F4B539050D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E24EE0F-AD8C-4571-9A36-F4B539050D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E24EE0F-AD8C-4571-9A36-F4B539050D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E24EE0F-AD8C-4571-9A36-F4B539050D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0DFBA1-5ADE-4371-91C1-6B7A10730497}.Debug|Any CPU.ActiveCfg = Debug
+		{FF0DFBA1-5ADE-4371-91C1-6B7A10730497}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07072195-4B53-403A-9E05-0C514A7A8617}
+	EndGlobalSection
+EndGlobal

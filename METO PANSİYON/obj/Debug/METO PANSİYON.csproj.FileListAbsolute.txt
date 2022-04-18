@@ -1,0 +1,28 @@
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.exe.config
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.exe
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.pdb
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csprojAssemblyReference.cache
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Properties.Resources.resources
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Yeni_Müsteri_Eklecs.resources
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csproj.GenerateResource.cache
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csproj.CoreCompileInputs.cache
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.exe
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.pdb
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.AnaForm.resources
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.AdminGiris.resources
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Odalar.resources
+D:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Müsteriler.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.exe.config
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.exe
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\bin\Debug\METO PANSİYON.pdb
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csprojAssemblyReference.cache
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.AnaForm.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.AdminGiris.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Odalar.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Properties.Resources.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.Yeni_Müsteri_Eklecs.resources
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csproj.GenerateResource.cache
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.csproj.CoreCompileInputs.cache
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.exe
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO PANSİYON.pdb
+E:\meto pansiyon\METO PANSİYON\METO PANSİYON\obj\Debug\METO_PANSİYON.final.resources
